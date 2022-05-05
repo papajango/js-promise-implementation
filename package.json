@@ -1,0 +1,22 @@
+{
+  "name": "js-promise-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papajango/js-promise-implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papajango/js-promise-implementation/issues"
+  },
+  "homepage": "https://github.com/papajango/js-promise-implementation#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
